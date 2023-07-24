@@ -1,0 +1,5 @@
+ll_env/
+__pycache__/
+*.sqlite3
+# Ignore logs from simple_deploy.
+simple_deploy_logs/
